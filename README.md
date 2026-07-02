@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RadheySB/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RadheySB/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/RadheySB/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RadheySB/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
