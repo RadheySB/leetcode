@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RadheySB/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/RadheySB/leetcode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/RadheySB/leetcode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RadheySB/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/RadheySB/leetcode/tree/master/0125-valid-palindrome) |
 ## Tree
 |  |
 | ------- |
