@@ -166,5 +166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/RadheySB/leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/RadheySB/leetcode/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/RadheySB/leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1148-article-views-i](https://github.com/RadheySB/leetcode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RadheySB/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
