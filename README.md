@@ -185,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/RadheySB/leetcode/tree/master/1668-maximum-repeating-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RadheySB/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
