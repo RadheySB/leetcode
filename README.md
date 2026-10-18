@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RadheySB/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/RadheySB/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/RadheySB/leetcode/tree/master/0125-valid-palindrome) |
+| [1668-maximum-repeating-substring](https://github.com/RadheySB/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RadheySB/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RadheySB/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/RadheySB/leetcode/tree/master/0509-fibonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/RadheySB/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/RadheySB/leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RadheySB/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RadheySB/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/RadheySB/leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
